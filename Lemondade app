@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Lemonade Recipe</title>
+   <meta charset="utf-8"> 
+   </head>
+   <body><h1>Lemonade Recipe</h1>
+   <p>Lemonade is a refreshing drink made by combining fresh lemon juice, water, and a touch of sweetness. Its balance of tart and sweet flavors has made it a timeless favorite around the world, especially on hot summer days. Beyond just being delicious, lemonade is also a natural source of vitamin C and can be a healthier alternative to sugary sodas</p>
+  <h2>Ingredients</h2>
+  <ul><li>1 cup fresh lemon juice (about 4–6 lemons)</li><li>1/2 cup sugar</li><li>4 cups cold water</li><li>A few ice cubes</li></ul>
+  <h2>Instructions</h2>
+  <ol><li>Get a pitcher and combine the lemon juice and sugar inside the pitcher</li><li>Stir well until the sugar dissolves</li><li>then add water to the combination</li><li>Mix well, After its mixed well pour over ice</li><li>Enjoy</li></ol>
+  <img src="https://images.allrecipes.com/userphotos/250x250/758956.jpg" alt="Glass of lemonade">
+  </body>
+  </html>

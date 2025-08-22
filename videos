@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main> <h1>Ethereal Audios</h1> <p> This page will consist of a few videos and songs I like.</p>
+<section>
+<h2>Teenage Blue - Dreamgirl</h2>
+<p> This is a video I like because of the visuals and the audio quality</p>
+<iframe
+src="https://www.youtube.com/embed/s9wU6pXT9Xo?playlist=s9wU6pXT9Xo&loop=1"
+title="Teenage Blue - Dreamgirl"
+width="450"
+height="300"
+allowfullscreen
+></iframe>
+</section>
+<section><h2>Samia: Tiny Desk Concert</h2>
+<p> A great tiny desk performance by a good artist Samia.</p>
+<iframe
+src="https://www.youtube.com/embed/lCQAgRoVMCo?playlist=lCQAgRoVMCo&loop=1"
+title="Samia: Tiny Desk Concert"
+width="450"
+height="300"
+allowfullscreen
+></iframe>
+</section>
+<section><h2>Just To Keep You Satisfied - Marvin Gaye</h2>
+<p> This is a song I really like, its as if it is speaking to the soul.</p>
+<iframe
+src="https://www.youtube.com/embed/wV09kMAY_CY?playlist=wV09kMAY_CY&loop=1"
+title="Just To Keep You Satisfied - Marvin Gaye"
+width="450"
+height="300"
+allowfullscreen
+></iframe>
+</section>
+</body>
+
+</html>
